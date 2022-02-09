@@ -6,7 +6,7 @@ import java.io.IOException;
 
 public class Iperf {
     public static void main(String args[]) throws IOException{
-        System.out.println("hello");
+        System.out.println("hello, world");
     }
 
 
